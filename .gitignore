@@ -37,3 +37,19 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# ArcGIS
+*.lyrx
+*.aprx
+*.gdb
+*.xml
+
+# folders
+/ImportLog/
+/Index/
+/NETHC_source/
+/NatureServeSystems/
+/OtherData_Ecoregions/
+/OtherLandcover/
+/info/
+/DRBX_ForestType/
